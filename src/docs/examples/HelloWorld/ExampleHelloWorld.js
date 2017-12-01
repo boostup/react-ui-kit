@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from 'react-ui-kit/HelloWorld/HelloWorld';
+import HelloWorld from 'react-ui-kit/HelloWorld';
 
 /** With a custom message: */
 export default function ExampleHelloWorld() {

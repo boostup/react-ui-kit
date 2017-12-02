@@ -1,7 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) but has been **ejected**.
+# React UI Kit
+RUKit is a library of React components.  
 
+## Installation
+### `npm install react-ui-kit`
 
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+## Docs
+[Component documentation](https://boostup.github.io/react-ui-kit/)
 
 ## Available Scripts
 
@@ -29,3 +33,9 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#deployment) for more information.
+
+## Important notes
+This project was bootstrapped with [CRA (Create React App)](https://github.com/facebookincubator/create-react-app) but has been **ejected**.
+
+
+You can find the most recent version of the CRA guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).

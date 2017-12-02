@@ -57,7 +57,8 @@
       "src/**/*.{js,jsx,mjs}"
     ],
     "setupFiles": [
-      "<rootDir>/config/polyfills.js"
+      "<rootDir>/config/polyfills.js",
+      "<rootDir>/src/setupTests.js"
     ],
     "testMatch": [
       "<rootDir>/src/**/__tests__/**/*.{js,jsx,mjs}",
@@ -96,8 +97,12 @@
   },
   "devDependencies": {
     "chokidar": "^1.7.0",
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0",
+    "npm": "^5.5.1",
     "npm-run-all": "^4.1.2",
     "prop-types": "^15.6.0",
-    "react-docgen": "^2.20.0"
+    "react-docgen": "^2.20.0",
+    "react-test-renderer": "^16.2.0"
   }
 }

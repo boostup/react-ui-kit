@@ -1,5 +1,5 @@
 import React from 'react';
-import RegistrationForm from 'react-ui-kit/RegistrationForm';
+import RegistrationForm from '@source360/react-ui-kit/lib/RegistrationForm';
 
 export default class ExampleRegistrationForm extends React.Component {
   onSubmit = (user) => {

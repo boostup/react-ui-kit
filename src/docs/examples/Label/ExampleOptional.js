@@ -1,5 +1,5 @@
 import React from 'react';
-import Label from 'react-ui-kit/Label';
+import Label from '@source360/react-ui-kit/lib/Label';
 
 /** Optional label */
 export default function ExampleOptional() {

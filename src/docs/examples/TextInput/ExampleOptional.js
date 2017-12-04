@@ -1,5 +1,5 @@
 import React from 'react';
-import TextInput from 'react-ui-kit/TextInput';
+import TextInput from '@source360/react-ui-kit/lib/TextInput';
 
 /** Optional TextBox */
 export default class ExampleOptional extends React.Component {
